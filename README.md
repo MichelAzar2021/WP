@@ -8,8 +8,6 @@ mkdir <directory name> ;  //Same directory name as the one you want to pull <br>
 cd <directory name>;<br>
 git remote add origin GIT_URL;<br>
 git checkout -b 'branch name';<br>
-git config core.sparsecheckout true;<br>
-echo directory name/ >> .git/info/sparse-checkout;<br>
 git pull origin 'pull branch name' <br>
 
 2- In order to deploy the environment, please run the below code:
