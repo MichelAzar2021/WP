@@ -19,4 +19,6 @@ pip install -r requirements.txt
 3- At last, please run main.py:
 
 The code is expected to run 2 graphs on a single dashboard on the browser.
+  
+![plot](https://github.com/MichelAzar2021/WP/blob/ed587afca23e709ad624e52015aac7fc6b80f3e2/Dashboard-WhiteshieldPartners.JPG)
 
